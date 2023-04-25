@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(86, 82, 82);
+    background-size: cover;
+    color: black;
+    text-align: right;
+    margin-right: 80px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+h1 {
+    font-size: 100px;
+    padding-top: 200px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    opacity: 0.7;
+}
+
+span {
+    color: #2b2c26;
+}
+
+ul {
+    list-style: none;
+    margin-top: 50px;
+}
+
+li {
+    display: inline;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+ul li a:hover { 
+    opacity: 0.7;
+}  
+
+
+
+.second-paragraph {
+    margin-bottom: 60px;
+}
+.button {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 15px;
+    color: rgb(14, 10, 10);
+}
+.button:hover {
+    opacity: 0.7
+}
+ 
